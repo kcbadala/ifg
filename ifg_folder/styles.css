@@ -1,0 +1,254 @@
+body {
+  font-family: georgia,"times new roman",times,serif;
+  line-height: 1.4375rem;
+  font-weight: 400;
+  font-style: normal;
+  margin-left: 45px;
+  margin-right: 0;
+  align-content: center;
+  align-items: center;
+
+
+}
+ .evansvideo{
+  position: relative;
+  left: 25%;
+width: 50%;
+height: 48%;
+
+ }
+
+.close {
+  position: relative;
+  right: 78%;
+  left: 10%;
+  width: 80%
+  
+
+ 
+}
+
+.banner {
+background-size:cover;
+width: 100%;
+height: auto;
+}
+
+.hoverimage {
+  font-family: georgia,"times new roman",times,serif;
+  font-size: 13px;
+}
+
+.hover2 {
+font-family: georgia,"times new roman",times,serif;
+  font-size: 13px;
+}
+
+.hover3 {
+font-family: georgia,"times new roman",times,serif;
+  font-size: 13px;
+}
+
+.hover4 {
+  font-family: georgia,"times new roman",times,serif;
+  font-size: 13px;
+}
+
+h1 {
+  text-align: center;
+ padding:4px 10px 11px; 
+  font-size: 40px;
+  font-family: sans-serif;
+  font-weight: 3000;
+  align-content: center;
+}
+
+h2 {
+text-align: center;
+  font-size: 25px;
+  font-family: sans-serif;
+  font-weight: 500;
+  position: relative;
+}
+
+h5 {
+  text-align: center;
+  padding: 10px 11px; 
+  font-size: 37px;
+  font-family: sans-serif;
+  font-weight: 3000;
+  align-content: center;
+}
+
+h6 {
+text-align: center;
+font-family: sans-serif;
+font-size: 39px;
+
+}
+
+h3 {
+  
+  text-align: center;
+  padding:px 10px 11px; 
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 300;
+  align-content: center
+  
+}
+ 
+
+ .text{
+
+  line-height: 1;
+ }
+ .text2{
+  line-height: 1;
+ }
+
+ .text3 {
+  line-height: 1.5;
+ }
+
+
+.resize {
+  background-size: cover;
+  height: auto;
+  align-content: center;
+  position: relative;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40em;
+  display: block;
+  margin: auto;
+  width: 400px;
+}
+
+.resize1 {
+  background-size: cover;
+  height: auto;
+  align-content: center;
+  position: relative;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40em;
+  display: block;
+  margin: auto;
+  width: 400px;
+}
+
+.small {
+  font-family:  georgia,"times new roman",times,serif;
+  line-height: 1.5;
+  font-size: 13px;
+}
+
+
+
+p {
+  text-align: left;
+  align-content: right;
+  vertical-align:center;
+  padding: 10px 5px 5px 10px;
+  margin: 0;
+  border: 100px;
+  line-height: 1.5;
+  display: block;
+ width: 40%;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40em; 
+  
+}
+
+
+
+blockquote {
+  text-align: center;
+  align-content: right;
+  vertical-align:center;
+  padding: 10px 5px 5px 10px;
+  margin: 0;
+  border: 100px;
+  line-height: 1.5;
+  display: block;
+  width: 60%;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 35px;
+font-weight: 100;
+font-family: 'Open Sans', sans-serif;
+
+
+}
+
+.audio {
+object-position: center;
+margin-right: 40%;
+margin-left: 43%;
+}
+
+.thegallery {
+ vertical-align:center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
+}
+
+.clo {
+  vertical-align: center;
+  display: block;
+  width: 800px;
+  height: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.anngia {
+  vertical-align: center;
+  display: block;
+  width: 800px;
+  height: 800px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.w3-center{
+font-family: sans-serif
+  margin: 0;
+  border: 100px;
+  text-align: center;
+}
+
+.mySlides {
+align-content: center;
+  display: block;
+  margin: 0;
+  border:20px;
+  width: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.kc {
+z-index: 3;
+  position:absolute;
+  left: 21.9%;
+  bottom: -730%;
+}
+
+.alec{
+  
+  z-index: 3;
+  position:absolute;
+  left: 80%;
+  bottom: -730%;
+
+}
