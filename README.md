@@ -1,2 +1,2 @@
-# website
+# ifg
 Indonesian Fashion Gallery
